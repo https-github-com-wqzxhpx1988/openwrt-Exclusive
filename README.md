@@ -14,7 +14,7 @@ lean源码版本，内核为***5.4和5.10***版
 
 自动每3天更新一次，手动不定时更新
 
-> `ip：192.168.1.1 密码：password`
+> `ip：192.168.5.1 密码：password`
 
 ## 固件下载
 ### 点击[Actions](https://github.com/firkerword/openwrt-Exclusive/actions) 或者[Releases](https://github.com/firkerword/openwrt-Exclusive/releases) 选择需要的版本
